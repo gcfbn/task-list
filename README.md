@@ -1,1 +1,1 @@
-This is a really simple CLI todo app, written in 30 minutes, waiting for a bike ride with a friend.
+This is a really simple CLI todo app, written in 30 minutes while waiting for a bike ride with a friend.
